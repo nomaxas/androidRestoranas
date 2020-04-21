@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Restorant Dore</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logoImage">LogoImage</string>
+    <string name="register">Register</string>
+    <string name="registerCinfirm">Confirm password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="diner">Diner Dore</string>
+
+    <string name="login_password_error" >Slaptažodį gali sudaryti mažosios ir didžiosios raidės, nuo 5 iki 20 simbolių, specialūs symboliai (.!@_)</string>
+    <string name="login_username_error" >Vartotojo vardą gali sudaryti mažosios ir didžiosios raidės, nuo 3 iki 20 simbolių</string>
+    <string name="register_passwordMatch_error" >Slaptažodžiai nesutampa</string>
+    <string name="register_email_error" >Neteisingas el.paštas</string>
+</resources>
